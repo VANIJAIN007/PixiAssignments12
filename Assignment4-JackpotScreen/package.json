@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "@pixi/particle-emitter": "^5.0.8",
+    "gsap": "^3.11.4",
+    "pixi": "^0.3.1",
+    "pixi-spine": "^3.1.0",
+    "pixi.js": "^7.0.5"
+  }
+}

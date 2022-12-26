@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@pixi/particle-emitter": "^5.0.8",
+    "pixi-sound": "^3.0.5"
+  }
+}
